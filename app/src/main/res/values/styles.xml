@@ -1,9 +1,9 @@
 <resources>
 
     <style name="AppTheme" parent="Theme.MaterialComponents.NoActionBar">
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
         <item name="materialButtonStyle">@style/TextButton.SmallText</item>
     </style>
 
